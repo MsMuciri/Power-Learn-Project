@@ -1,2 +1,2 @@
-# Power-Learn-Project
+# PLP-Academy
 Learning Repo
